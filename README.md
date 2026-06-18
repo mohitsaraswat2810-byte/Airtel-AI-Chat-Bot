@@ -4,7 +4,7 @@ An enterprise-grade AI chatbot application built with Streamlit, MySQL, and GPT-
 
 ---
 
-## ✨ Features
+##  Features
 
 - Streamlit-based web UI with chat and user management
 - Local GPT-OSS inference through Ollama
@@ -15,7 +15,7 @@ An enterprise-grade AI chatbot application built with Streamlit, MySQL, and GPT-
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.10+
 - MySQL Server 8.0+
@@ -23,7 +23,7 @@ An enterprise-grade AI chatbot application built with Streamlit, MySQL, and GPT-
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. Clone the repo and install dependencies:
 
@@ -57,7 +57,7 @@ The app creates the `chatbot_db` database and required tables on first launch.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 Airtel/
@@ -83,7 +83,7 @@ Airtel/
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### `users`
 
@@ -117,7 +117,7 @@ Airtel/
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 All settings are loaded from environment variables (see `.env.example`):
 
@@ -135,6 +135,6 @@ All settings are loaded from environment variables (see `.env.example`):
 
 ---
 
-## 📝 License
+##  License
 
 This project is provided for educational and development purposes.
