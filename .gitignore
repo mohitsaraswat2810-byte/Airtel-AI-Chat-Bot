@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment
+.env
+.env.local
+
+# MySQL local data
+mysql_data/
+
+# Streamlit and temp files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
